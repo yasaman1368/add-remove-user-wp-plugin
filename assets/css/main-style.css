@@ -1,0 +1,5 @@
+.wp-core-ui select {
+/* background-color: red !important; */
+padding: 0 8px !important;
+max-width: 100% !important;
+}
